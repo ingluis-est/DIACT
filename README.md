@@ -1,1 +1,1 @@
-# Labsi Insights
+Labsi Insights
